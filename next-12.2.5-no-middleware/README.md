@@ -1,0 +1,1 @@
+# Next 12.2.5 no middleware
